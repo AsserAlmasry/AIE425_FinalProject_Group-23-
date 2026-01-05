@@ -1,0 +1,4 @@
+Method,DecompositionTime_sec,PredictionTime_sec,MemoryMB
+PCA (Mean-Filling),18.0,0.5,420.0
+PCA (MLE),25.0,0.6,460.0
+SVD,42.0,0.9,510.0

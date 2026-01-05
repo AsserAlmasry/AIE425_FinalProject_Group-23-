@@ -1,0 +1,1832 @@
+{
+  "user_70": {
+    "user_idx": 70,
+    "n_ratings": 4,
+    "methods": {
+      "content_based": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 509,
+            "asin": "B00000509",
+            "title": "BrandA Tools Product 509",
+            "category": "Tools",
+            "score": 0.8171952884332818
+          },
+          {
+            "rank": 2,
+            "item_idx": 531,
+            "asin": "B00000531",
+            "title": "BrandD Tools Product 531",
+            "category": "Tools",
+            "score": 0.8171364582388865
+          },
+          {
+            "rank": 3,
+            "item_idx": 393,
+            "asin": "B00000393",
+            "title": "BrandD Tools Product 393",
+            "category": "Tools",
+            "score": 0.817055369169724
+          },
+          {
+            "rank": 4,
+            "item_idx": 348,
+            "asin": "B00000348",
+            "title": "BrandA Tools Product 348",
+            "category": "Tools",
+            "score": 0.8165929171610079
+          },
+          {
+            "rank": 5,
+            "item_idx": 115,
+            "asin": "B00000115",
+            "title": "BrandD Tools Product 115",
+            "category": "Tools",
+            "score": 0.8142574684369925
+          },
+          {
+            "rank": 6,
+            "item_idx": 530,
+            "asin": "B00000530",
+            "title": "BrandD Tools Product 530",
+            "category": "Tools",
+            "score": 0.8142107437010369
+          },
+          {
+            "rank": 7,
+            "item_idx": 624,
+            "asin": "B00000624",
+            "title": "BrandA Tools Product 624",
+            "category": "Tools",
+            "score": 0.8139673378561667
+          },
+          {
+            "rank": 8,
+            "item_idx": 539,
+            "asin": "B00000539",
+            "title": "BrandD Tools Product 539",
+            "category": "Tools",
+            "score": 0.8139200824995763
+          },
+          {
+            "rank": 9,
+            "item_idx": 636,
+            "asin": "B00000636",
+            "title": "BrandA Tools Product 636",
+            "category": "Tools",
+            "score": 0.8132740800993457
+          },
+          {
+            "rank": 10,
+            "item_idx": 235,
+            "asin": "B00000235",
+            "title": "BrandD Tools Product 235",
+            "category": "Tools",
+            "score": 0.8132508002384375
+          }
+        ],
+        "time_ms": 12
+      },
+      "collaborative": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 95,
+            "asin": "B00000095",
+            "title": "BrandB Bath Product 95",
+            "category": "Bath",
+            "score": 5.000000000000001
+          },
+          {
+            "rank": 2,
+            "item_idx": 200,
+            "asin": "B00000200",
+            "title": "BrandE Fragrance Product 200",
+            "category": "Fragrance",
+            "score": 5.000000000000001
+          },
+          {
+            "rank": 3,
+            "item_idx": 201,
+            "asin": "B00000201",
+            "title": "BrandE Tools Product 201",
+            "category": "Tools",
+            "score": 5.000000000000001
+          },
+          {
+            "rank": 4,
+            "item_idx": 13,
+            "asin": "B00000013",
+            "title": "BrandD Makeup Product 13",
+            "category": "Makeup",
+            "score": 5.0
+          },
+          {
+            "rank": 5,
+            "item_idx": 20,
+            "asin": "B00000020",
+            "title": "BrandA Fragrance Product 20",
+            "category": "Fragrance",
+            "score": 5.0
+          },
+          {
+            "rank": 6,
+            "item_idx": 30,
+            "asin": "B00000030",
+            "title": "BrandF Fragrance Product 30",
+            "category": "Fragrance",
+            "score": 5.0
+          },
+          {
+            "rank": 7,
+            "item_idx": 63,
+            "asin": "B00000063",
+            "title": "BrandE Tools Product 63",
+            "category": "Tools",
+            "score": 5.0
+          },
+          {
+            "rank": 8,
+            "item_idx": 109,
+            "asin": "B00000109",
+            "title": "BrandB Bath Product 109",
+            "category": "Bath",
+            "score": 5.0
+          },
+          {
+            "rank": 9,
+            "item_idx": 123,
+            "asin": "B00000123",
+            "title": "BrandC Haircare Product 123",
+            "category": "Haircare",
+            "score": 5.0
+          },
+          {
+            "rank": 10,
+            "item_idx": 186,
+            "asin": "B00000186",
+            "title": "BrandA Bath Product 186",
+            "category": "Bath",
+            "score": 5.0
+          }
+        ],
+        "time_ms": 7
+      },
+      "hybrid_weighted": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 636,
+            "asin": "B00000636",
+            "title": "BrandA Tools Product 636",
+            "category": "Tools",
+            "score": 0.9976008131780507,
+            "cb_score": 0.9952016263561017,
+            "cf_score": 0.9999999999999997
+          },
+          {
+            "rank": 2,
+            "item_idx": 457,
+            "asin": "B00000457",
+            "title": "BrandA Tools Product 457",
+            "category": "Tools",
+            "score": 0.9969897804666185,
+            "cb_score": 0.9939795609332371,
+            "cf_score": 0.9999999999999998
+          },
+          {
+            "rank": 3,
+            "item_idx": 465,
+            "asin": "B00000465",
+            "title": "BrandD Tools Product 465",
+            "category": "Tools",
+            "score": 0.9922835589364059,
+            "cb_score": 0.9845671178728121,
+            "cf_score": 0.9999999999999997
+          },
+          {
+            "rank": 4,
+            "item_idx": 348,
+            "asin": "B00000348",
+            "title": "BrandA Tools Product 348",
+            "category": "Tools",
+            "score": 0.9769226847283662,
+            "cb_score": 0.999262879655818,
+            "cf_score": 0.9545824898009144
+          },
+          {
+            "rank": 5,
+            "item_idx": 597,
+            "asin": "B00000597",
+            "title": "BrandD Tools Product 597",
+            "category": "Tools",
+            "score": 0.9734264125299776,
+            "cb_score": 0.9770878633932312,
+            "cf_score": 0.9697649616667242
+          },
+          {
+            "rank": 6,
+            "item_idx": 596,
+            "asin": "B00000596",
+            "title": "BrandA Tools Product 596",
+            "category": "Tools",
+            "score": 0.972335110040766,
+            "cb_score": 0.986845394592098,
+            "cf_score": 0.9578248254894339
+          },
+          {
+            "rank": 7,
+            "item_idx": 281,
+            "asin": "B00000281",
+            "title": "BrandC Tools Product 281",
+            "category": "Tools",
+            "score": 0.9535301244651836,
+            "cb_score": 0.9070602489303674,
+            "cf_score": 0.9999999999999998
+          },
+          {
+            "rank": 8,
+            "item_idx": 438,
+            "asin": "B00000438",
+            "title": "BrandC Tools Product 438",
+            "category": "Tools",
+            "score": 0.9446161192021272,
+            "cb_score": 0.8892322384042547,
+            "cf_score": 0.9999999999999997
+          },
+          {
+            "rank": 9,
+            "item_idx": 201,
+            "asin": "B00000201",
+            "title": "BrandE Tools Product 201",
+            "category": "Tools",
+            "score": 0.932357422174562,
+            "cb_score": 0.8647148443491239,
+            "cf_score": 1.0
+          },
+          {
+            "rank": 10,
+            "item_idx": 213,
+            "asin": "B00000213",
+            "title": "BrandB Tools Product 213",
+            "category": "Tools",
+            "score": 0.9269728890826745,
+            "cb_score": 0.9021587513541877,
+            "cf_score": 0.9517870268111613
+          }
+        ],
+        "time_ms": 14
+      },
+      "hybrid_cascade": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 281,
+            "asin": "B00000281",
+            "title": "BrandC Tools Product 281",
+            "category": "Tools",
+            "score": 5.0
+          },
+          {
+            "rank": 2,
+            "item_idx": 457,
+            "asin": "B00000457",
+            "title": "BrandA Tools Product 457",
+            "category": "Tools",
+            "score": 5.0
+          },
+          {
+            "rank": 3,
+            "item_idx": 465,
+            "asin": "B00000465",
+            "title": "BrandD Tools Product 465",
+            "category": "Tools",
+            "score": 4.999999999999999
+          },
+          {
+            "rank": 4,
+            "item_idx": 636,
+            "asin": "B00000636",
+            "title": "BrandA Tools Product 636",
+            "category": "Tools",
+            "score": 4.999999999999999
+          },
+          {
+            "rank": 5,
+            "item_idx": 597,
+            "asin": "B00000597",
+            "title": "BrandD Tools Product 597",
+            "category": "Tools",
+            "score": 4.848824808333622
+          },
+          {
+            "rank": 6,
+            "item_idx": 596,
+            "asin": "B00000596",
+            "title": "BrandA Tools Product 596",
+            "category": "Tools",
+            "score": 4.78912412744717
+          },
+          {
+            "rank": 7,
+            "item_idx": 348,
+            "asin": "B00000348",
+            "title": "BrandA Tools Product 348",
+            "category": "Tools",
+            "score": 4.772912449004573
+          },
+          {
+            "rank": 8,
+            "item_idx": 213,
+            "asin": "B00000213",
+            "title": "BrandB Tools Product 213",
+            "category": "Tools",
+            "score": 4.7589351340558075
+          },
+          {
+            "rank": 9,
+            "item_idx": 102,
+            "asin": "B00000102",
+            "title": "BrandA Tools Product 102",
+            "category": "Tools",
+            "score": 4.734905463233611
+          },
+          {
+            "rank": 10,
+            "item_idx": 624,
+            "asin": "B00000624",
+            "title": "BrandA Tools Product 624",
+            "category": "Tools",
+            "score": 4.723868370649741
+          }
+        ],
+        "time_ms": 12
+      }
+    }
+  },
+  "user_0": {
+    "user_idx": 0,
+    "n_ratings": 8,
+    "methods": {
+      "content_based": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 38,
+            "asin": "B00000038",
+            "title": "BrandA Tools Product 38",
+            "category": "Tools",
+            "score": 0.6536132904951274
+          },
+          {
+            "rank": 2,
+            "item_idx": 84,
+            "asin": "B00000084",
+            "title": "BrandC Tools Product 84",
+            "category": "Tools",
+            "score": 0.6476604562825912
+          },
+          {
+            "rank": 3,
+            "item_idx": 63,
+            "asin": "B00000063",
+            "title": "BrandE Tools Product 63",
+            "category": "Tools",
+            "score": 0.632988083217066
+          },
+          {
+            "rank": 4,
+            "item_idx": 62,
+            "asin": "B00000062",
+            "title": "BrandF Tools Product 62",
+            "category": "Tools",
+            "score": 0.5904996691929268
+          },
+          {
+            "rank": 5,
+            "item_idx": 69,
+            "asin": "B00000069",
+            "title": "BrandB Tools Product 69",
+            "category": "Tools",
+            "score": 0.5874356850567163
+          },
+          {
+            "rank": 6,
+            "item_idx": 26,
+            "asin": "B00000026",
+            "title": "BrandD Tools Product 26",
+            "category": "Tools",
+            "score": 0.5811369896509395
+          },
+          {
+            "rank": 7,
+            "item_idx": 70,
+            "asin": "B00000070",
+            "title": "BrandD Tools Product 70",
+            "category": "Tools",
+            "score": 0.5786761658363383
+          },
+          {
+            "rank": 8,
+            "item_idx": 90,
+            "asin": "B00000090",
+            "title": "BrandE Tools Product 90",
+            "category": "Tools",
+            "score": 0.5734408435726839
+          },
+          {
+            "rank": 9,
+            "item_idx": 25,
+            "asin": "B00000025",
+            "title": "BrandC Tools Product 25",
+            "category": "Tools",
+            "score": 0.5715947126270766
+          },
+          {
+            "rank": 10,
+            "item_idx": 88,
+            "asin": "B00000088",
+            "title": "BrandB Tools Product 88",
+            "category": "Tools",
+            "score": 0.5468500342399373
+          }
+        ],
+        "time_ms": 15
+      },
+      "collaborative": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 500,
+            "asin": "B00000500",
+            "title": "BrandF Makeup Product 500",
+            "category": "Makeup",
+            "score": 5.0
+          },
+          {
+            "rank": 2,
+            "item_idx": 563,
+            "asin": "B00000563",
+            "title": "BrandF Skincare Product 563",
+            "category": "Skincare",
+            "score": 5.0
+          },
+          {
+            "rank": 3,
+            "item_idx": 614,
+            "asin": "B00000614",
+            "title": "BrandC Bath Product 614",
+            "category": "Bath",
+            "score": 5.0
+          },
+          {
+            "rank": 4,
+            "item_idx": 566,
+            "asin": "B00000566",
+            "title": "BrandA Bath Product 566",
+            "category": "Bath",
+            "score": 4.999999999999999
+          },
+          {
+            "rank": 5,
+            "item_idx": 22,
+            "asin": "B00000022",
+            "title": "BrandA Haircare Product 22",
+            "category": "Haircare",
+            "score": 4.890490128683947
+          },
+          {
+            "rank": 6,
+            "item_idx": 250,
+            "asin": "B00000250",
+            "title": "BrandC Tools Product 250",
+            "category": "Tools",
+            "score": 4.852995554653043
+          },
+          {
+            "rank": 7,
+            "item_idx": 352,
+            "asin": "B00000352",
+            "title": "BrandB Fragrance Product 352",
+            "category": "Fragrance",
+            "score": 4.829129770572667
+          },
+          {
+            "rank": 8,
+            "item_idx": 314,
+            "asin": "B00000314",
+            "title": "BrandC Haircare Product 314",
+            "category": "Haircare",
+            "score": 4.815577632172479
+          },
+          {
+            "rank": 9,
+            "item_idx": 458,
+            "asin": "B00000458",
+            "title": "BrandE Tools Product 458",
+            "category": "Tools",
+            "score": 4.790439349181051
+          },
+          {
+            "rank": 10,
+            "item_idx": 412,
+            "asin": "B00000412",
+            "title": "BrandB Haircare Product 412",
+            "category": "Haircare",
+            "score": 4.771919975710303
+          }
+        ],
+        "time_ms": 6
+      },
+      "hybrid_weighted": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 250,
+            "asin": "B00000250",
+            "title": "BrandC Tools Product 250",
+            "category": "Tools",
+            "score": 0.8923717921000536,
+            "cb_score": 0.8141444732694986,
+            "cf_score": 0.9705991109306087
+          },
+          {
+            "rank": 2,
+            "item_idx": 530,
+            "asin": "B00000530",
+            "title": "BrandD Tools Product 530",
+            "category": "Tools",
+            "score": 0.875868584897453,
+            "cb_score": 0.8166003135308141,
+            "cf_score": 0.9351368562640919
+          },
+          {
+            "rank": 3,
+            "item_idx": 130,
+            "asin": "B00000130",
+            "title": "BrandD Tools Product 130",
+            "category": "Tools",
+            "score": 0.8715177375389838,
+            "cb_score": 0.8092393992464367,
+            "cf_score": 0.9337960758315307
+          },
+          {
+            "rank": 4,
+            "item_idx": 465,
+            "asin": "B00000465",
+            "title": "BrandD Tools Product 465",
+            "category": "Tools",
+            "score": 0.8592028289281386,
+            "cb_score": 0.807608512741741,
+            "cf_score": 0.9107971451145364
+          },
+          {
+            "rank": 5,
+            "item_idx": 638,
+            "asin": "B00000638",
+            "title": "BrandC Tools Product 638",
+            "category": "Tools",
+            "score": 0.8586353318249952,
+            "cb_score": 0.7984911393557965,
+            "cf_score": 0.9187795242941939
+          },
+          {
+            "rank": 6,
+            "item_idx": 22,
+            "asin": "B00000022",
+            "title": "BrandA Haircare Product 22",
+            "category": "Haircare",
+            "score": 0.8512623953103652,
+            "cb_score": 0.724426764883941,
+            "cf_score": 0.9780980257367894
+          },
+          {
+            "rank": 7,
+            "item_idx": 0,
+            "asin": "B00000000",
+            "title": "BrandE Fragrance Product 0",
+            "category": "Fragrance",
+            "score": 0.8410118398056396,
+            "cb_score": 0.7785846153407727,
+            "cf_score": 0.9034390642705066
+          },
+          {
+            "rank": 8,
+            "item_idx": 15,
+            "asin": "B00000015",
+            "title": "BrandB Tools Product 15",
+            "category": "Tools",
+            "score": 0.8374919158230671,
+            "cb_score": 0.7754481132288266,
+            "cf_score": 0.8995357184173077
+          },
+          {
+            "rank": 9,
+            "item_idx": 381,
+            "asin": "B00000381",
+            "title": "BrandE Tools Product 381",
+            "category": "Tools",
+            "score": 0.8288658765595515,
+            "cb_score": 0.7185316594988241,
+            "cf_score": 0.9392000936202788
+          },
+          {
+            "rank": 10,
+            "item_idx": 37,
+            "asin": "B00000037",
+            "title": "BrandC Skincare Product 37",
+            "category": "Skincare",
+            "score": 0.8265363196826858,
+            "cb_score": 0.7070766165587138,
+            "cf_score": 0.9459960228066577
+          }
+        ],
+        "time_ms": 25
+      },
+      "hybrid_cascade": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 250,
+            "asin": "B00000250",
+            "title": "BrandC Tools Product 250",
+            "category": "Tools",
+            "score": 4.852995554653043
+          },
+          {
+            "rank": 2,
+            "item_idx": 530,
+            "asin": "B00000530",
+            "title": "BrandD Tools Product 530",
+            "category": "Tools",
+            "score": 4.67568428132046
+          },
+          {
+            "rank": 3,
+            "item_idx": 130,
+            "asin": "B00000130",
+            "title": "BrandD Tools Product 130",
+            "category": "Tools",
+            "score": 4.668980379157653
+          },
+          {
+            "rank": 4,
+            "item_idx": 638,
+            "asin": "B00000638",
+            "title": "BrandC Tools Product 638",
+            "category": "Tools",
+            "score": 4.593897621470969
+          },
+          {
+            "rank": 5,
+            "item_idx": 465,
+            "asin": "B00000465",
+            "title": "BrandD Tools Product 465",
+            "category": "Tools",
+            "score": 4.553985725572682
+          },
+          {
+            "rank": 6,
+            "item_idx": 0,
+            "asin": "B00000000",
+            "title": "BrandE Fragrance Product 0",
+            "category": "Fragrance",
+            "score": 4.517195321352533
+          },
+          {
+            "rank": 7,
+            "item_idx": 15,
+            "asin": "B00000015",
+            "title": "BrandB Tools Product 15",
+            "category": "Tools",
+            "score": 4.4976785920865385
+          },
+          {
+            "rank": 8,
+            "item_idx": 393,
+            "asin": "B00000393",
+            "title": "BrandD Tools Product 393",
+            "category": "Tools",
+            "score": 4.34698689790424
+          },
+          {
+            "rank": 9,
+            "item_idx": 637,
+            "asin": "B00000637",
+            "title": "BrandC Tools Product 637",
+            "category": "Tools",
+            "score": 4.313546056788272
+          },
+          {
+            "rank": 10,
+            "item_idx": 539,
+            "asin": "B00000539",
+            "title": "BrandD Tools Product 539",
+            "category": "Tools",
+            "score": 4.285581904377678
+          }
+        ],
+        "time_ms": 19
+      }
+    }
+  },
+  "user_1": {
+    "user_idx": 1,
+    "n_ratings": 14,
+    "methods": {
+      "content_based": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 118,
+            "asin": "B00000118",
+            "title": "BrandB Bath Product 118",
+            "category": "Bath",
+            "score": 0.7319639726570948
+          },
+          {
+            "rank": 2,
+            "item_idx": 574,
+            "asin": "B00000574",
+            "title": "BrandB Bath Product 574",
+            "category": "Bath",
+            "score": 0.7239973543233895
+          },
+          {
+            "rank": 3,
+            "item_idx": 433,
+            "asin": "B00000433",
+            "title": "BrandB Bath Product 433",
+            "category": "Bath",
+            "score": 0.7227926977288954
+          },
+          {
+            "rank": 4,
+            "item_idx": 503,
+            "asin": "B00000503",
+            "title": "BrandB Bath Product 503",
+            "category": "Bath",
+            "score": 0.722658797646947
+          },
+          {
+            "rank": 5,
+            "item_idx": 176,
+            "asin": "B00000176",
+            "title": "BrandB Bath Product 176",
+            "category": "Bath",
+            "score": 0.7199234412227318
+          },
+          {
+            "rank": 6,
+            "item_idx": 109,
+            "asin": "B00000109",
+            "title": "BrandB Bath Product 109",
+            "category": "Bath",
+            "score": 0.6975658618661438
+          },
+          {
+            "rank": 7,
+            "item_idx": 252,
+            "asin": "B00000252",
+            "title": "BrandF Bath Product 252",
+            "category": "Bath",
+            "score": 0.6933318464330841
+          },
+          {
+            "rank": 8,
+            "item_idx": 394,
+            "asin": "B00000394",
+            "title": "BrandF Bath Product 394",
+            "category": "Bath",
+            "score": 0.6927599774459179
+          },
+          {
+            "rank": 9,
+            "item_idx": 137,
+            "asin": "B00000137",
+            "title": "BrandD Bath Product 137",
+            "category": "Bath",
+            "score": 0.6911729178199121
+          },
+          {
+            "rank": 10,
+            "item_idx": 630,
+            "asin": "B00000630",
+            "title": "BrandF Bath Product 630",
+            "category": "Bath",
+            "score": 0.6906626999488283
+          }
+        ],
+        "time_ms": 13
+      },
+      "collaborative": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 296,
+            "asin": "B00000296",
+            "title": "BrandB Skincare Product 296",
+            "category": "Skincare",
+            "score": 5.000000000000001
+          },
+          {
+            "rank": 2,
+            "item_idx": 548,
+            "asin": "B00000548",
+            "title": "BrandD Bath Product 548",
+            "category": "Bath",
+            "score": 4.912034611957584
+          },
+          {
+            "rank": 3,
+            "item_idx": 635,
+            "asin": "B00000635",
+            "title": "BrandE Skincare Product 635",
+            "category": "Skincare",
+            "score": 4.90423441623922
+          },
+          {
+            "rank": 4,
+            "item_idx": 254,
+            "asin": "B00000254",
+            "title": "BrandE Haircare Product 254",
+            "category": "Haircare",
+            "score": 4.874202739342433
+          },
+          {
+            "rank": 5,
+            "item_idx": 334,
+            "asin": "B00000334",
+            "title": "BrandD Fragrance Product 334",
+            "category": "Fragrance",
+            "score": 4.820977251166432
+          },
+          {
+            "rank": 6,
+            "item_idx": 486,
+            "asin": "B00000486",
+            "title": "BrandD Bath Product 486",
+            "category": "Bath",
+            "score": 4.817910432439084
+          },
+          {
+            "rank": 7,
+            "item_idx": 577,
+            "asin": "B00000577",
+            "title": "BrandA Fragrance Product 577",
+            "category": "Fragrance",
+            "score": 4.80607164606201
+          },
+          {
+            "rank": 8,
+            "item_idx": 297,
+            "asin": "B00000297",
+            "title": "BrandB Haircare Product 297",
+            "category": "Haircare",
+            "score": 4.798764768303135
+          },
+          {
+            "rank": 9,
+            "item_idx": 478,
+            "asin": "B00000478",
+            "title": "BrandB Fragrance Product 478",
+            "category": "Fragrance",
+            "score": 4.777741512390957
+          },
+          {
+            "rank": 10,
+            "item_idx": 457,
+            "asin": "B00000457",
+            "title": "BrandA Tools Product 457",
+            "category": "Tools",
+            "score": 4.774072402554883
+          }
+        ],
+        "time_ms": 10
+      },
+      "hybrid_weighted": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 109,
+            "asin": "B00000109",
+            "title": "BrandB Bath Product 109",
+            "category": "Bath",
+            "score": 0.9535119863387833,
+            "cb_score": 0.953005732418656,
+            "cf_score": 0.9540182402589107
+          },
+          {
+            "rank": 2,
+            "item_idx": 125,
+            "asin": "B00000125",
+            "title": "BrandC Bath Product 125",
+            "category": "Bath",
+            "score": 0.9216522113611036,
+            "cb_score": 0.9244076932879651,
+            "cf_score": 0.918896729434242
+          },
+          {
+            "rank": 3,
+            "item_idx": 224,
+            "asin": "B00000224",
+            "title": "BrandD Bath Product 224",
+            "category": "Bath",
+            "score": 0.9187224764258078,
+            "cb_score": 0.9051052923213166,
+            "cf_score": 0.932339660530299
+          },
+          {
+            "rank": 4,
+            "item_idx": 282,
+            "asin": "B00000282",
+            "title": "BrandC Bath Product 282",
+            "category": "Bath",
+            "score": 0.9144169815535815,
+            "cb_score": 0.9242539654062315,
+            "cf_score": 0.9045799977009316
+          },
+          {
+            "rank": 5,
+            "item_idx": 484,
+            "asin": "B00000484",
+            "title": "BrandE Bath Product 484",
+            "category": "Bath",
+            "score": 0.9128827620271873,
+            "cb_score": 0.881894022174222,
+            "cf_score": 0.9438715018801526
+          },
+          {
+            "rank": 6,
+            "item_idx": 607,
+            "asin": "B00000607",
+            "title": "BrandE Bath Product 607",
+            "category": "Bath",
+            "score": 0.8988895588533786,
+            "cb_score": 0.889061932751289,
+            "cf_score": 0.9087171849554683
+          },
+          {
+            "rank": 7,
+            "item_idx": 648,
+            "asin": "B00000648",
+            "title": "BrandA Bath Product 648",
+            "category": "Bath",
+            "score": 0.895807165446906,
+            "cb_score": 0.8698394272324433,
+            "cf_score": 0.9217749036613686
+          },
+          {
+            "rank": 8,
+            "item_idx": 413,
+            "asin": "B00000413",
+            "title": "BrandA Bath Product 413",
+            "category": "Bath",
+            "score": 0.8909194398414848,
+            "cb_score": 0.8668491618425307,
+            "cf_score": 0.9149897178404388
+          },
+          {
+            "rank": 9,
+            "item_idx": 328,
+            "asin": "B00000328",
+            "title": "BrandF Bath Product 328",
+            "category": "Bath",
+            "score": 0.8881139970292593,
+            "cb_score": 0.8621167240447469,
+            "cf_score": 0.9141112700137717
+          },
+          {
+            "rank": 10,
+            "item_idx": 548,
+            "asin": "B00000548",
+            "title": "BrandD Bath Product 548",
+            "category": "Bath",
+            "score": 0.8879046565284138,
+            "cb_score": 0.7934023906653108,
+            "cf_score": 0.9824069223915167
+          }
+        ],
+        "time_ms": 29
+      },
+      "hybrid_cascade": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 109,
+            "asin": "B00000109",
+            "title": "BrandB Bath Product 109",
+            "category": "Bath",
+            "score": 4.770091201294554
+          },
+          {
+            "rank": 2,
+            "item_idx": 484,
+            "asin": "B00000484",
+            "title": "BrandE Bath Product 484",
+            "category": "Bath",
+            "score": 4.719357509400764
+          },
+          {
+            "rank": 3,
+            "item_idx": 224,
+            "asin": "B00000224",
+            "title": "BrandD Bath Product 224",
+            "category": "Bath",
+            "score": 4.661698302651496
+          },
+          {
+            "rank": 4,
+            "item_idx": 648,
+            "asin": "B00000648",
+            "title": "BrandA Bath Product 648",
+            "category": "Bath",
+            "score": 4.608874518306844
+          },
+          {
+            "rank": 5,
+            "item_idx": 125,
+            "asin": "B00000125",
+            "title": "BrandC Bath Product 125",
+            "category": "Bath",
+            "score": 4.594483647171211
+          },
+          {
+            "rank": 6,
+            "item_idx": 607,
+            "asin": "B00000607",
+            "title": "BrandE Bath Product 607",
+            "category": "Bath",
+            "score": 4.543585924777342
+          },
+          {
+            "rank": 7,
+            "item_idx": 282,
+            "asin": "B00000282",
+            "title": "BrandC Bath Product 282",
+            "category": "Bath",
+            "score": 4.522899988504658
+          },
+          {
+            "rank": 8,
+            "item_idx": 614,
+            "asin": "B00000614",
+            "title": "BrandC Bath Product 614",
+            "category": "Bath",
+            "score": 4.513810500581991
+          },
+          {
+            "rank": 9,
+            "item_idx": 246,
+            "asin": "B00000246",
+            "title": "BrandC Bath Product 246",
+            "category": "Bath",
+            "score": 4.505325615492019
+          },
+          {
+            "rank": 10,
+            "item_idx": 600,
+            "asin": "B00000600",
+            "title": "BrandB Bath Product 600",
+            "category": "Bath",
+            "score": 4.491554004034352
+          }
+        ],
+        "time_ms": 11
+      }
+    }
+  },
+  "user_3": {
+    "user_idx": 3,
+    "n_ratings": 17,
+    "methods": {
+      "content_based": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 115,
+            "asin": "B00000115",
+            "title": "BrandD Tools Product 115",
+            "category": "Tools",
+            "score": 0.5999886398062776
+          },
+          {
+            "rank": 2,
+            "item_idx": 530,
+            "asin": "B00000530",
+            "title": "BrandD Tools Product 530",
+            "category": "Tools",
+            "score": 0.599980106627652
+          },
+          {
+            "rank": 3,
+            "item_idx": 235,
+            "asin": "B00000235",
+            "title": "BrandD Tools Product 235",
+            "category": "Tools",
+            "score": 0.5997680805082706
+          },
+          {
+            "rank": 4,
+            "item_idx": 531,
+            "asin": "B00000531",
+            "title": "BrandD Tools Product 531",
+            "category": "Tools",
+            "score": 0.5996291642320116
+          },
+          {
+            "rank": 5,
+            "item_idx": 130,
+            "asin": "B00000130",
+            "title": "BrandD Tools Product 130",
+            "category": "Tools",
+            "score": 0.5975269395515105
+          },
+          {
+            "rank": 6,
+            "item_idx": 393,
+            "asin": "B00000393",
+            "title": "BrandD Tools Product 393",
+            "category": "Tools",
+            "score": 0.5974101801760738
+          },
+          {
+            "rank": 7,
+            "item_idx": 597,
+            "asin": "B00000597",
+            "title": "BrandD Tools Product 597",
+            "category": "Tools",
+            "score": 0.5934378487830381
+          },
+          {
+            "rank": 8,
+            "item_idx": 481,
+            "asin": "B00000481",
+            "title": "BrandD Tools Product 481",
+            "category": "Tools",
+            "score": 0.5926803008961038
+          },
+          {
+            "rank": 9,
+            "item_idx": 539,
+            "asin": "B00000539",
+            "title": "BrandD Tools Product 539",
+            "category": "Tools",
+            "score": 0.5926078731055822
+          },
+          {
+            "rank": 10,
+            "item_idx": 116,
+            "asin": "B00000116",
+            "title": "BrandD Tools Product 116",
+            "category": "Tools",
+            "score": 0.5913722989563678
+          }
+        ],
+        "time_ms": 16
+      },
+      "collaborative": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 42,
+            "asin": "B00000042",
+            "title": "BrandA Skincare Product 42",
+            "category": "Skincare",
+            "score": 4.664895143807739
+          },
+          {
+            "rank": 2,
+            "item_idx": 43,
+            "asin": "B00000043",
+            "title": "BrandD Haircare Product 43",
+            "category": "Haircare",
+            "score": 4.6515999274444875
+          },
+          {
+            "rank": 3,
+            "item_idx": 325,
+            "asin": "B00000325",
+            "title": "BrandE Fragrance Product 325",
+            "category": "Fragrance",
+            "score": 4.630943423967854
+          },
+          {
+            "rank": 4,
+            "item_idx": 108,
+            "asin": "B00000108",
+            "title": "BrandA Tools Product 108",
+            "category": "Tools",
+            "score": 4.472797398047915
+          },
+          {
+            "rank": 5,
+            "item_idx": 94,
+            "asin": "B00000094",
+            "title": "BrandC Makeup Product 94",
+            "category": "Makeup",
+            "score": 4.4622331387925245
+          },
+          {
+            "rank": 6,
+            "item_idx": 338,
+            "asin": "B00000338",
+            "title": "BrandB Makeup Product 338",
+            "category": "Makeup",
+            "score": 4.4580245993295105
+          },
+          {
+            "rank": 7,
+            "item_idx": 594,
+            "asin": "B00000594",
+            "title": "BrandB Skincare Product 594",
+            "category": "Skincare",
+            "score": 4.457448883542898
+          },
+          {
+            "rank": 8,
+            "item_idx": 247,
+            "asin": "B00000247",
+            "title": "BrandE Makeup Product 247",
+            "category": "Makeup",
+            "score": 4.435592402096054
+          },
+          {
+            "rank": 9,
+            "item_idx": 575,
+            "asin": "B00000575",
+            "title": "BrandC Bath Product 575",
+            "category": "Bath",
+            "score": 4.434598125211188
+          },
+          {
+            "rank": 10,
+            "item_idx": 281,
+            "asin": "B00000281",
+            "title": "BrandC Tools Product 281",
+            "category": "Tools",
+            "score": 4.423003512018721
+          }
+        ],
+        "time_ms": 11
+      },
+      "hybrid_weighted": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 316,
+            "asin": "B00000316",
+            "title": "BrandE Tools Product 316",
+            "category": "Tools",
+            "score": 0.95156816165695,
+            "cb_score": 0.9725495121882743,
+            "cf_score": 0.9305868111256256
+          },
+          {
+            "rank": 2,
+            "item_idx": 531,
+            "asin": "B00000531",
+            "title": "BrandD Tools Product 531",
+            "category": "Tools",
+            "score": 0.9493445207317316,
+            "cb_score": 0.9994008626990304,
+            "cf_score": 0.8992881787644328
+          },
+          {
+            "rank": 3,
+            "item_idx": 281,
+            "asin": "B00000281",
+            "title": "BrandC Tools Product 281",
+            "category": "Tools",
+            "score": 0.9418129048778809,
+            "cb_score": 0.935479415106379,
+            "cf_score": 0.9481463946493828
+          },
+          {
+            "rank": 4,
+            "item_idx": 312,
+            "asin": "B00000312",
+            "title": "BrandD Tools Product 312",
+            "category": "Tools",
+            "score": 0.9386960268595035,
+            "cb_score": 0.9415293289231278,
+            "cf_score": 0.9358627247958793
+          },
+          {
+            "rank": 5,
+            "item_idx": 404,
+            "asin": "B00000404",
+            "title": "BrandB Tools Product 404",
+            "category": "Tools",
+            "score": 0.928301662815727,
+            "cb_score": 0.9568520114980458,
+            "cf_score": 0.8997513141334084
+          },
+          {
+            "rank": 6,
+            "item_idx": 467,
+            "asin": "B00000467",
+            "title": "BrandC Tools Product 467",
+            "category": "Tools",
+            "score": 0.9271415643070353,
+            "cb_score": 0.9301108858596157,
+            "cf_score": 0.924172242754455
+          },
+          {
+            "rank": 7,
+            "item_idx": 462,
+            "asin": "B00000462",
+            "title": "BrandF Tools Product 462",
+            "category": "Tools",
+            "score": 0.9267737860155659,
+            "cb_score": 0.934341671755844,
+            "cf_score": 0.9192059002752878
+          },
+          {
+            "rank": 8,
+            "item_idx": 160,
+            "asin": "B00000160",
+            "title": "BrandA Tools Product 160",
+            "category": "Tools",
+            "score": 0.9248800042978704,
+            "cb_score": 0.9078409934087717,
+            "cf_score": 0.9419190151869692
+          },
+          {
+            "rank": 9,
+            "item_idx": 108,
+            "asin": "B00000108",
+            "title": "BrandA Tools Product 108",
+            "category": "Tools",
+            "score": 0.9239012370131569,
+            "cb_score": 0.8889819088984602,
+            "cf_score": 0.9588205651278535
+          },
+          {
+            "rank": 10,
+            "item_idx": 133,
+            "asin": "B00000133",
+            "title": "BrandE Tools Product 133",
+            "category": "Tools",
+            "score": 0.91820312619372,
+            "cb_score": 0.9322361934628836,
+            "cf_score": 0.9041700589245564
+          }
+        ],
+        "time_ms": 28
+      },
+      "hybrid_cascade": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 281,
+            "asin": "B00000281",
+            "title": "BrandC Tools Product 281",
+            "category": "Tools",
+            "score": 4.423003512018721
+          },
+          {
+            "rank": 2,
+            "item_idx": 312,
+            "asin": "B00000312",
+            "title": "BrandD Tools Product 312",
+            "category": "Tools",
+            "score": 4.3657014801709755
+          },
+          {
+            "rank": 3,
+            "item_idx": 316,
+            "asin": "B00000316",
+            "title": "BrandE Tools Product 316",
+            "category": "Tools",
+            "score": 4.34108989611146
+          },
+          {
+            "rank": 4,
+            "item_idx": 467,
+            "asin": "B00000467",
+            "title": "BrandC Tools Product 467",
+            "category": "Tools",
+            "score": 4.311166607267164
+          },
+          {
+            "rank": 5,
+            "item_idx": 462,
+            "asin": "B00000462",
+            "title": "BrandF Tools Product 462",
+            "category": "Tools",
+            "score": 4.287999140353611
+          },
+          {
+            "rank": 6,
+            "item_idx": 133,
+            "asin": "B00000133",
+            "title": "BrandE Tools Product 133",
+            "category": "Tools",
+            "score": 4.21785851705352
+          },
+          {
+            "rank": 7,
+            "item_idx": 482,
+            "asin": "B00000482",
+            "title": "BrandC Tools Product 482",
+            "category": "Tools",
+            "score": 4.2105166628200505
+          },
+          {
+            "rank": 8,
+            "item_idx": 404,
+            "asin": "B00000404",
+            "title": "BrandB Tools Product 404",
+            "category": "Tools",
+            "score": 4.197245535935568
+          },
+          {
+            "rank": 9,
+            "item_idx": 531,
+            "asin": "B00000531",
+            "title": "BrandD Tools Product 531",
+            "category": "Tools",
+            "score": 4.195085058001908
+          },
+          {
+            "rank": 10,
+            "item_idx": 455,
+            "asin": "B00000455",
+            "title": "BrandF Tools Product 455",
+            "category": "Tools",
+            "score": 4.121034574110175
+          }
+        ],
+        "time_ms": 16
+      }
+    }
+  },
+  "user_14": {
+    "user_idx": 14,
+    "n_ratings": 16,
+    "methods": {
+      "content_based": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 479,
+            "asin": "B00000479",
+            "title": "BrandA Makeup Product 479",
+            "category": "Makeup",
+            "score": 0.644736529528217
+          },
+          {
+            "rank": 2,
+            "item_idx": 369,
+            "asin": "B00000369",
+            "title": "BrandA Makeup Product 369",
+            "category": "Makeup",
+            "score": 0.6392198151725089
+          },
+          {
+            "rank": 3,
+            "item_idx": 233,
+            "asin": "B00000233",
+            "title": "BrandA Makeup Product 233",
+            "category": "Makeup",
+            "score": 0.6363017408539153
+          },
+          {
+            "rank": 4,
+            "item_idx": 208,
+            "asin": "B00000208",
+            "title": "BrandA Makeup Product 208",
+            "category": "Makeup",
+            "score": 0.6351238125063162
+          },
+          {
+            "rank": 5,
+            "item_idx": 480,
+            "asin": "B00000480",
+            "title": "BrandA Makeup Product 480",
+            "category": "Makeup",
+            "score": 0.6318749508154334
+          },
+          {
+            "rank": 6,
+            "item_idx": 625,
+            "asin": "B00000625",
+            "title": "BrandD Makeup Product 625",
+            "category": "Makeup",
+            "score": 0.6273577978304966
+          },
+          {
+            "rank": 7,
+            "item_idx": 354,
+            "asin": "B00000354",
+            "title": "BrandD Makeup Product 354",
+            "category": "Makeup",
+            "score": 0.6270323367474593
+          },
+          {
+            "rank": 8,
+            "item_idx": 156,
+            "asin": "B00000156",
+            "title": "BrandD Makeup Product 156",
+            "category": "Makeup",
+            "score": 0.6269814247188139
+          },
+          {
+            "rank": 9,
+            "item_idx": 355,
+            "asin": "B00000355",
+            "title": "BrandF Makeup Product 355",
+            "category": "Makeup",
+            "score": 0.6228416487034235
+          },
+          {
+            "rank": 10,
+            "item_idx": 191,
+            "asin": "B00000191",
+            "title": "BrandF Makeup Product 191",
+            "category": "Makeup",
+            "score": 0.62283722800201
+          }
+        ],
+        "time_ms": 15
+      },
+      "collaborative": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 190,
+            "asin": "B00000190",
+            "title": "BrandE Haircare Product 190",
+            "category": "Haircare",
+            "score": 4.744612352938456
+          },
+          {
+            "rank": 2,
+            "item_idx": 378,
+            "asin": "B00000378",
+            "title": "BrandC Makeup Product 378",
+            "category": "Makeup",
+            "score": 4.718406588859945
+          },
+          {
+            "rank": 3,
+            "item_idx": 527,
+            "asin": "B00000527",
+            "title": "BrandB Makeup Product 527",
+            "category": "Makeup",
+            "score": 4.7061058795882005
+          },
+          {
+            "rank": 4,
+            "item_idx": 538,
+            "asin": "B00000538",
+            "title": "BrandB Haircare Product 538",
+            "category": "Haircare",
+            "score": 4.695181526098609
+          },
+          {
+            "rank": 5,
+            "item_idx": 65,
+            "asin": "B00000065",
+            "title": "BrandC Skincare Product 65",
+            "category": "Skincare",
+            "score": 4.694315476938206
+          },
+          {
+            "rank": 6,
+            "item_idx": 568,
+            "asin": "B00000568",
+            "title": "BrandC Tools Product 568",
+            "category": "Tools",
+            "score": 4.690276780302692
+          },
+          {
+            "rank": 7,
+            "item_idx": 485,
+            "asin": "B00000485",
+            "title": "BrandC Fragrance Product 485",
+            "category": "Fragrance",
+            "score": 4.6744182397561875
+          },
+          {
+            "rank": 8,
+            "item_idx": 323,
+            "asin": "B00000323",
+            "title": "BrandF Fragrance Product 323",
+            "category": "Fragrance",
+            "score": 4.673198046658
+          },
+          {
+            "rank": 9,
+            "item_idx": 201,
+            "asin": "B00000201",
+            "title": "BrandE Tools Product 201",
+            "category": "Tools",
+            "score": 4.663578657486855
+          },
+          {
+            "rank": 10,
+            "item_idx": 565,
+            "asin": "B00000565",
+            "title": "BrandC Makeup Product 565",
+            "category": "Makeup",
+            "score": 4.661117879533716
+          }
+        ],
+        "time_ms": 14
+      },
+      "hybrid_weighted": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 354,
+            "asin": "B00000354",
+            "title": "BrandD Makeup Product 354",
+            "category": "Makeup",
+            "score": 0.967466548165762,
+            "cb_score": 0.9725404223742175,
+            "cf_score": 0.9623926739573067
+          },
+          {
+            "rank": 2,
+            "item_idx": 126,
+            "asin": "B00000126",
+            "title": "BrandF Makeup Product 126",
+            "category": "Makeup",
+            "score": 0.966517607181973,
+            "cb_score": 0.9642785581250081,
+            "cf_score": 0.9687566562389378
+          },
+          {
+            "rank": 3,
+            "item_idx": 302,
+            "asin": "B00000302",
+            "title": "BrandA Makeup Product 302",
+            "category": "Makeup",
+            "score": 0.9621831362443547,
+            "cb_score": 0.9522364971878917,
+            "cf_score": 0.9721297753008177
+          },
+          {
+            "rank": 4,
+            "item_idx": 208,
+            "asin": "B00000208",
+            "title": "BrandA Makeup Product 208",
+            "category": "Makeup",
+            "score": 0.9584565000245473,
+            "cb_score": 0.985090472492795,
+            "cf_score": 0.9318225275562995
+          },
+          {
+            "rank": 5,
+            "item_idx": 625,
+            "asin": "B00000625",
+            "title": "BrandD Makeup Product 625",
+            "category": "Makeup",
+            "score": 0.9540166907617952,
+            "cb_score": 0.9730452194008036,
+            "cf_score": 0.9349881621227868
+          },
+          {
+            "rank": 6,
+            "item_idx": 527,
+            "asin": "B00000527",
+            "title": "BrandB Makeup Product 527",
+            "category": "Makeup",
+            "score": 0.9533160528324311,
+            "cb_score": 0.9147479369458748,
+            "cf_score": 0.9918841687189875
+          },
+          {
+            "rank": 7,
+            "item_idx": 500,
+            "asin": "B00000500",
+            "title": "BrandF Makeup Product 500",
+            "category": "Makeup",
+            "score": 0.9467739203079255,
+            "cb_score": 0.9480769359401444,
+            "cf_score": 0.9454709046757066
+          },
+          {
+            "rank": 8,
+            "item_idx": 414,
+            "asin": "B00000414",
+            "title": "BrandC Makeup Product 414",
+            "category": "Makeup",
+            "score": 0.9406804307158356,
+            "cb_score": 0.9158014716662446,
+            "cf_score": 0.9655593897654267
+          },
+          {
+            "rank": 9,
+            "item_idx": 378,
+            "asin": "B00000378",
+            "title": "BrandC Makeup Product 378",
+            "category": "Makeup",
+            "score": 0.938078957006615,
+            "cb_score": 0.8816811816964755,
+            "cf_score": 0.9944767323167547
+          },
+          {
+            "rank": 10,
+            "item_idx": 230,
+            "asin": "B00000230",
+            "title": "BrandC Makeup Product 230",
+            "category": "Makeup",
+            "score": 0.9356689244193988,
+            "cb_score": 0.910404044908133,
+            "cf_score": 0.9609338039306645
+          }
+        ],
+        "time_ms": 31
+      },
+      "hybrid_cascade": {
+        "recommendations": [
+          {
+            "rank": 1,
+            "item_idx": 527,
+            "asin": "B00000527",
+            "title": "BrandB Makeup Product 527",
+            "category": "Makeup",
+            "score": 4.7061058795882005
+          },
+          {
+            "rank": 2,
+            "item_idx": 302,
+            "asin": "B00000302",
+            "title": "BrandA Makeup Product 302",
+            "category": "Makeup",
+            "score": 4.612378940551546
+          },
+          {
+            "rank": 3,
+            "item_idx": 126,
+            "asin": "B00000126",
+            "title": "BrandF Makeup Product 126",
+            "category": "Makeup",
+            "score": 4.596374798182618
+          },
+          {
+            "rank": 4,
+            "item_idx": 414,
+            "asin": "B00000414",
+            "title": "BrandC Makeup Product 414",
+            "category": "Makeup",
+            "score": 4.581205008176761
+          },
+          {
+            "rank": 5,
+            "item_idx": 354,
+            "asin": "B00000354",
+            "title": "BrandD Makeup Product 354",
+            "category": "Makeup",
+            "score": 4.5661801692353094
+          },
+          {
+            "rank": 6,
+            "item_idx": 230,
+            "asin": "B00000230",
+            "title": "BrandC Makeup Product 230",
+            "category": "Makeup",
+            "score": 4.559258396485571
+          },
+          {
+            "rank": 7,
+            "item_idx": 500,
+            "asin": "B00000500",
+            "title": "BrandF Makeup Product 500",
+            "category": "Makeup",
+            "score": 4.485892933668255
+          },
+          {
+            "rank": 8,
+            "item_idx": 641,
+            "asin": "B00000641",
+            "title": "BrandC Makeup Product 641",
+            "category": "Makeup",
+            "score": 4.46357853319149
+          },
+          {
+            "rank": 9,
+            "item_idx": 292,
+            "asin": "B00000292",
+            "title": "BrandD Makeup Product 292",
+            "category": "Makeup",
+            "score": 4.454960963387783
+          },
+          {
+            "rank": 10,
+            "item_idx": 625,
+            "asin": "B00000625",
+            "title": "BrandD Makeup Product 625",
+            "category": "Makeup",
+            "score": 4.436156383858998
+          }
+        ],
+        "time_ms": 23
+      }
+    }
+  }
+}

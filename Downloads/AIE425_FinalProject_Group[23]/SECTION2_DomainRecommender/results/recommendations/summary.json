@@ -1,0 +1,9 @@
+{
+  "n_users": 5,
+  "avg_time_ms": {
+    "content_based": 14.2,
+    "collaborative": 9.6,
+    "hybrid_weighted": 25.4,
+    "hybrid_cascade": 16.2
+  }
+}

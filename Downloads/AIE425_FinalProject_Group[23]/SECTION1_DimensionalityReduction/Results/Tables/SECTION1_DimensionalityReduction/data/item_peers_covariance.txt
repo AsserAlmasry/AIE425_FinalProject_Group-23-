@@ -1,0 +1,18 @@
+Item 235
+Top-5 peers:
+movieId
+118758    0.0
+
+Top-10 peers:
+movieId
+118758    0.0
+
+Item 118758
+Top-5 peers:
+movieId
+235    0.0
+
+Top-10 peers:
+movieId
+235    0.0
+
